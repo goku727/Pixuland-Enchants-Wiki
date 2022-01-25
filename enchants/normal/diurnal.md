@@ -13,6 +13,6 @@ Increases damage dealt at daytime.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- nocturnal
 ## Max Level
 6

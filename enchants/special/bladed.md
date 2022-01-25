@@ -13,6 +13,6 @@ Trident deals extreme additional damage.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- impaling,- serrated,- phantasm,- arachnid,- pacify,- abattoir
 ## Max Level
 5

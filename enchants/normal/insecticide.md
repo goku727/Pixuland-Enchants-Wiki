@@ -13,6 +13,6 @@ Increases damage against spiders.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- power,- force,- revenant,- slaughter,- settle
 ## Max Level
 5

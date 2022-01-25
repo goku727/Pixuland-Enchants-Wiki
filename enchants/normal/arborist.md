@@ -14,6 +14,6 @@ Get more sticks, apples, and saplings from leaves.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- silk_touch
 ## Max Level
 4

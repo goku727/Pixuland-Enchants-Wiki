@@ -13,6 +13,6 @@ Massively increases arrow damage.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- power,- revenant,- insecticide,- slaughter,- settle
 ## Max Level
 8

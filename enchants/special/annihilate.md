@@ -14,6 +14,6 @@ Extreme Knockback.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- knockback,- tornado,- grapple
 ## Max Level
 2

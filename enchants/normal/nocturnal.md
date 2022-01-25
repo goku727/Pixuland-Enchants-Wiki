@@ -13,6 +13,6 @@ Increases damage dealt at night.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- diurnal
 ## Max Level
 6

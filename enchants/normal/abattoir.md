@@ -13,6 +13,6 @@ Increases damage against passive mobs by &a%value%&r.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- serrated,- bladed,- phantasm,- pacify,- arachnid,- impaling
 ## Max Level
 5

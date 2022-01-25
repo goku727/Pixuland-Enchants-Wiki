@@ -20,6 +20,6 @@ Increases dropped experience.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- splash,- intellect
 ## Max Level
 3

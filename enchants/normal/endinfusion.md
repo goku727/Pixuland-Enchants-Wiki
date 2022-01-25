@@ -13,6 +13,6 @@ Increases damage dealt in the end.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- nether_infusion
 ## Max Level
 6

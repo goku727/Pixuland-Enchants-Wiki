@@ -14,6 +14,6 @@ Increases damage against end mobs.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- sharpness,- bane_of_arthropods,- smite,- defusion,- razor,- butchering,- introversion
 ## Max Level
 5

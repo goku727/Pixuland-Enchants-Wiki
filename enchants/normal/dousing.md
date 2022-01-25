@@ -14,6 +14,6 @@ description: &a%value%%&r chance to put out fire on block.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- ignite
 ## Max Level
 8

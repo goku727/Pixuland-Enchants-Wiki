@@ -13,6 +13,6 @@ description: &a%value%%&r chance for stone to drop as random ore.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- stone_switcher,- silk_touch
 ## Max Level
 7

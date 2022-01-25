@@ -13,6 +13,6 @@ Increases damage against creepers.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- serrated,- bladed,- phantasm,- arachnid,- abattoir,- impaling
 ## Max Level
 5

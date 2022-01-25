@@ -13,6 +13,6 @@ Increases damage dealt against opponents with iron, gold, or chain armor.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- plasmic
 ## Max Level
 5

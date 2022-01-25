@@ -14,6 +14,6 @@ description: &a%value%%&r chance to light hit block on fire.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- dousing
 ## Max Level
 8

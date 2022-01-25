@@ -13,6 +13,6 @@ Hooking onto an entity will damage it.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- harpoon
 ## Max Level
 3

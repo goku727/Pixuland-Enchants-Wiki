@@ -16,6 +16,6 @@ Angers all mobs within &a%value%&r blocks.
 ## Grindstoneable
 No
 ## Conflicts
-None
+- mending
 ## Max Level
 1

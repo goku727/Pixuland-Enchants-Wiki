@@ -15,6 +15,6 @@ Mines blocks behind other blocks.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- lumberjack,- blast_mining,- vein
 ## Max Level
 5

@@ -13,6 +13,6 @@ Shoots multiple arrows spread out.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- succession,- pentashot,- tripleshot
 ## Max Level
 2

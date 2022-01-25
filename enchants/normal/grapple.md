@@ -14,6 +14,6 @@ Pulls entities towards you.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- knockback,- tornado,- annihilate
 ## Max Level
 2

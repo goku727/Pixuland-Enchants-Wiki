@@ -14,6 +14,6 @@ Heals a large portion of damage dealt.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- leeching
 ## Max Level
 3

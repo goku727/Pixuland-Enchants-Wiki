@@ -13,6 +13,6 @@ Automatically damages items when not held.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- mending,- repairing
 ## Max Level
 1

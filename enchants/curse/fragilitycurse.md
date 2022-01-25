@@ -13,6 +13,6 @@ Decreases item durability by &a%value%&r times.
 ## Grindstoneable
 No
 ## Conflicts
-None
+- unbreaking
 ## Max Level
 1

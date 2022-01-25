@@ -13,6 +13,6 @@ Breaking logs have a &a%value%%&r chance to drop as other logs.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- silk_touch
 ## Max Level
 6

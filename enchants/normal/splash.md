@@ -13,6 +13,6 @@ Damages entities near where trident lands but does not drop experience.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- wisdom
 ## Max Level
 4

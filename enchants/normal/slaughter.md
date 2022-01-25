@@ -13,6 +13,6 @@ Increases damage against passive mobs.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- power,- force,- revenant,- insecticide,- settle
 ## Max Level
 5

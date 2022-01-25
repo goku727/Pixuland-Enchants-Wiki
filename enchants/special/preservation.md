@@ -16,6 +16,6 @@ Massively reduces incoming damage.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- protection,- fire_protection,- projectile_protection,- blast_protection
 ## Max Level
 4

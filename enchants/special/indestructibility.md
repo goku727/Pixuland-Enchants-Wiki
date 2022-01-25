@@ -13,6 +13,6 @@ Massively increases item durability.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- unbreaking
 ## Max Level
 3

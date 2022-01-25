@@ -14,6 +14,6 @@ Increases damage dealt in the nether.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- enderism
 ## Max Level
 6

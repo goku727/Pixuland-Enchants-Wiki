@@ -13,6 +13,6 @@ Pulls entities towards you.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- punch
 ## Max Level
 2

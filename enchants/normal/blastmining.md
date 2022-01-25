@@ -13,6 +13,6 @@ Mines blocks in a 3x3 area.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- drill,- vein
 ## Max Level
 1

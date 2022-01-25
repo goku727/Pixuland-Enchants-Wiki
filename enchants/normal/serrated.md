@@ -13,6 +13,6 @@ Trident deals additional damage.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- bladed,- phantasm,- arachnid,- pacify,- abattoir,- impaling
 ## Max Level
 5

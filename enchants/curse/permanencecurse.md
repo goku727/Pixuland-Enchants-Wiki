@@ -13,6 +13,6 @@ Prevents item from being modified in an anvil.
 ## Grindstoneable
 No
 ## Conflicts
-None
+- mending
 ## Max Level
 1

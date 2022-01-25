@@ -13,6 +13,6 @@ Hooking onto an entity will heavily damage it.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- spiked
 ## Max Level
 3

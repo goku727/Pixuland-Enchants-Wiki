@@ -14,6 +14,6 @@ Increases damage against players.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- sharpness,- bane_of_arthropods,- smite,- defusion,- razor,- ender_slayer,- butchering
 ## Max Level
 5

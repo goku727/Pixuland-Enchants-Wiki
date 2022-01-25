@@ -13,6 +13,6 @@ Increases hunger loss by &a%value%&rx.
 ## Grindstoneable
 No
 ## Conflicts
-None
+- sating
 ## Max Level
 1

@@ -14,6 +14,6 @@ Heals a portion of damage dealt.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- life_steal
 ## Max Level
 3

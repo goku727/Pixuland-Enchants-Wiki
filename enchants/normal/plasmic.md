@@ -13,6 +13,6 @@ Increases damage dealt against opponents with diamond or netherite armor.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- voltage
 ## Max Level
 5

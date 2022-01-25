@@ -13,6 +13,6 @@ description: &a%value%%&r for stone to drop as variants.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- transfuse,- silk_touch
 ## Max Level
 6

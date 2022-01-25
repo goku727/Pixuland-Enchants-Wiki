@@ -13,6 +13,6 @@ Increases damage dealt in the nether.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- void_affinity
 ## Max Level
 6

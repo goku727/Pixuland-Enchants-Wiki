@@ -13,6 +13,6 @@ Instantly cut down entire trees.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- drill
 ## Max Level
 6

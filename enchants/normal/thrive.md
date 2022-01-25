@@ -16,6 +16,6 @@ Increases maximum health.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- prosperity
 ## Max Level
 2

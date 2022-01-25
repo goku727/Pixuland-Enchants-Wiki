@@ -13,6 +13,6 @@ Damage all entities around attacked entity.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- carve
 ## Max Level
 8

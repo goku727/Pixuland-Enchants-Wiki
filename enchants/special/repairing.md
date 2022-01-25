@@ -13,6 +13,6 @@ Automatically repairs items when not held.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- mending,- decay_curse
 ## Max Level
 3

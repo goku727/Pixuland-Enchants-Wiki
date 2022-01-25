@@ -13,6 +13,6 @@ Increases damage against undead mobs.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- power,- force,- insecticide,- slaughter,- settle
 ## Max Level
 5

@@ -13,6 +13,6 @@ Increases damage against spiders by &a%value%%&r.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- serrated,- bladed,- phantasm,- pacify,- abattoir,- impaling
 ## Max Level
 5

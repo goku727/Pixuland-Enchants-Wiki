@@ -14,6 +14,6 @@ Knocks your opponent into the air.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- knockback,- grapple,- annihilate
 ## Max Level
 2

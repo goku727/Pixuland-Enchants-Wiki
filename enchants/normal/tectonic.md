@@ -13,6 +13,6 @@ Damages nearby entities when taking fall damage.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- feather_falling
 ## Max Level
 2

@@ -13,6 +13,6 @@ Mine blocks in a vein.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- drill,- blast_mining
 ## Max Level
 5

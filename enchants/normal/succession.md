@@ -13,6 +13,6 @@ Shoots multiple arrows in a burst.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- tripleshot,- pentashot,- buckshot
 ## Max Level
 1

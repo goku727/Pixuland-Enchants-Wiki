@@ -16,6 +16,6 @@ description: &a%value%%&r chance for blocks to not drop items.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- fortune
 ## Max Level
 1

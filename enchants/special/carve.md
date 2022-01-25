@@ -13,6 +13,6 @@ Heavily damage all entities around attacked entity.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- cleave
 ## Max Level
 8

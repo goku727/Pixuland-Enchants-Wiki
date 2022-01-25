@@ -13,6 +13,6 @@ Shoots 5 arrows.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- succession,- tripleshot,- buckshot
 ## Max Level
 1

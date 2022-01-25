@@ -13,6 +13,6 @@ Increases damage against undead mobs.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- serrated,- bladed,- arachnid,- pacify,- abattoir,- impaling
 ## Max Level
 5

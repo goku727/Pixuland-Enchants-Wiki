@@ -14,6 +14,6 @@ Increases damage against creepers.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- sharpness,- bane_of_arthropods,- smite,- butchering,- razor,- ender_slayer,- introversion
 ## Max Level
 5

@@ -14,6 +14,6 @@ Increases damage against passive mobs.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- sharpness,- bane_of_arthropods,- smite,- defusion,- razor,- ender_slayer
 ## Max Level
 5

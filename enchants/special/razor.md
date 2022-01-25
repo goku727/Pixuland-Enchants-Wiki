@@ -13,6 +13,6 @@ Massively increases damage dealt.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- sharpness,- smite,- bane_of_arthropods,- defusion,- butchering,- ender_slayer,- introversion
 ## Max Level
 8

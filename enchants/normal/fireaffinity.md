@@ -13,6 +13,6 @@ Increases damage dealt when on fire.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- water_affinity
 ## Max Level
 7

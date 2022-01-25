@@ -13,6 +13,6 @@ Automatically smelt mined blocks.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- silk_touch,- stone_switcher
 ## Max Level
 1

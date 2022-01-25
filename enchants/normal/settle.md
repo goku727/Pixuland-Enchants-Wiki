@@ -13,6 +13,6 @@ Increases damage against creepers.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- power,- force,- revenant,- slaughter,- insecticide
 ## Max Level
 5

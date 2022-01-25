@@ -14,6 +14,6 @@ Increases damage dealt in the end.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- netheric
 ## Max Level
 6

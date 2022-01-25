@@ -16,6 +16,6 @@ Massively increases maximum health.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- thrive
 ## Max Level
 3

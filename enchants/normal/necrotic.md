@@ -13,6 +13,6 @@ Wither skeletons have a &a%value%%&r higher chance to drop skulls.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- looting
 ## Max Level
 4

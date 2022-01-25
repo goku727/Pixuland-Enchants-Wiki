@@ -14,6 +14,6 @@ Increases damage dealt against fiery mobs.
 ## Grindstoneable
 Yes
 ## Conflicts
-None
+- fire_aspect
 ## Max Level
 2
